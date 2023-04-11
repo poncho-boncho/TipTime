@@ -7,5 +7,5 @@
     <string name="ok_service">нормально (15%)</string>
     <string name="round_up_tip">округлить чаевые?</string>
     <string name="calculate">Подсчитать</string>
-    <string name="tip_amount">Подсчитать чаевые</string>
+    <string name="tip_amount">Подсчитать чаевые: %s</string>
 </resources>
